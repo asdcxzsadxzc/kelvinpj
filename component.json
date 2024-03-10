@@ -1,0 +1,10 @@
+{
+  "name": "kelvinpj",
+  "description": ".replace('{{kelvinpj}}', string)",
+  "version": "0.2.1",
+  "scripts": [
+    "index.js"
+  ],
+  "repo": "asdcxzsadxzc/kelvinpj",
+  "license": "MIT"
+}
