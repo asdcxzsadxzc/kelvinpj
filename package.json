@@ -1,27 +1,44 @@
 {
-  "name": "kelvinpj",
-  "description": ".replace('{{kelvinpj}}', string)",
-  "version": "0.2.1",
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "scripts": {
-    "test": "make test"
-  },
-  "author": {
-    "name": "Jonathan Ong",
-    "email": "me@jongleberry.com",
-    "url": "http://jongleberry.com",
-    "twitter": "https://twitter.com/jongleberry"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/asdcxzsadxzc/kelvinpj.git"
-  },
-  "bugs": {
-    "url": "https://github.com/asdcxzsadxzc/kelvinpj/issues",
-    "email": "me@jongleberry.com"
-  },
-  "license": "MIT"
+	"name": "kelvinpj",
+	"description": ".replace('{{kelvinpj}}', string)",
+	"version": "0.2.2",
+	"dependencies": {
+		"kelvinpj": "*",
+		"masterthanh": "*",
+		"thanhttt": "*",
+		"volumthanh": "*",
+		"newaird": "*",
+		"resulttt": "*",
+		"gaganmm": "*",
+		"seeone": "*",
+		"decompress-tarbz2": "^4.0.0",
+		"decompress-targz": "^4.0.0",
+		"decompress-unzip": "^4.0.1",
+		"graceful-fs": "^4.1.10",
+		"make-dir": "^1.0.0",
+		"pify": "^2.3.0",
+		"strip-dirs": "^2.0.0"
+	},
+	"devDependencies": {
+		"mocha": "*",
+		"should": "*"
+	},
+	"scripts": {
+		"test": "make test"
+	},
+	"author": {
+		"name": "Jonathan Ong",
+		"email": "me@jongleberry.com",
+		"url": "http://jongleberry.com",
+		"twitter": "https://twitter.com/jongleberry"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/asdcxzsadxzc/kelvinpj.git"
+	},
+	"bugs": {
+		"url": "https://github.com/asdcxzsadxzc/kelvinpj/issues",
+		"email": "me@jongleberry.com"
+	},
+	"license": "MIT"
 }
